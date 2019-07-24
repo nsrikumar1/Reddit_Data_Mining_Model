@@ -1,3 +1,3 @@
 # Reddit_Data_Mining_Model
 
-Python code that uses apache spark to properly set up reddit data so that it can be ran by a machine learning model to determine the public's opinion on certain political topics.
+Python project that analyzes the Reddit user's opinions on certain political topics. This project makes use of Python and apache spark to create a framework for reddit data, which is then run on a machine learning model to determine sentiment.
